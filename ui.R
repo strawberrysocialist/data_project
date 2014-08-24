@@ -23,7 +23,7 @@ shinyUI(
         #a(href="http://guides.wsj.com/personal-finance/investing/how-to-choose-an-exchange-traded-fund-etf/"),
         
         h5("Overhead (Expense Ratios)"),
-        helpText("Average ETF: 0.74%"),
+        helpText("Average ETF: 0.44%"),
         helpText("Average Passive MF: 0.74%"),
         helpText("Average Active MF: 0.90%"),
         
